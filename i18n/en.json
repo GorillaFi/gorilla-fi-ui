@@ -645,25 +645,25 @@
     {
       "data": {
         "stringId": 534,
-        "text": "GORILLA Stats"
+        "text": "GORILLA Stats - TBA"
       }
     },
     {
       "data": {
         "stringId": 536,
-        "text": "Total Minted"
+        "text": "Total Minted - TBA"
       }
     },
     {
       "data": {
         "stringId": 538,
-        "text": "Total Burned"
+        "text": "Total Burned - TBA"
       }
     },
     {
       "data": {
         "stringId": 540,
-        "text": "New GORILLA\/block"
+        "text": "New GORILLA\/block - TBA"
       }
     },
     {
@@ -759,7 +759,7 @@
     {
       "data": {
         "stringId": 578,
-        "text": "Best farm in the KCC jungle."
+        "text": "Best farm in the OKEx jungle."
       }
     },
     {
@@ -1233,13 +1233,13 @@
     {
       "data": {
         "stringId": 10004,
-        "text": "Circulating Supply"
+        "text": "Circulating Supply - TBA"
       }
     },
     {
       "data": {
         "stringId": 10005,
-        "text": "Market Cap"
+        "text": "Market Cap - TBA"
       }
     }
   ],
