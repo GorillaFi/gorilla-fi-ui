@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using GORILLA-BNB LP tokens, which means you need to stake equal amounts of GORILLA and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using GORILLA-OKT LP tokens, which means you need to stake equal amounts of GORILLA and OKT in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get GORILLA-BNB LP >"
+        "text": "Get GORILLA-OKT LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Gorilla Finance burns the GORILLA."
+        "text": "The project gets the OKT, Gorilla Finance burns the GORILLA."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with Gorilla Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Launch your project with Gorilla Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on OKeX."
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy GORILLAand BNB tokens"
+        "text": "Buy GORILLAand OKT tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get EGG-BNB LP tokens by adding GORILLAand BNB liquidity"
+        "text": "Get EGG-OKT LP tokens by adding GORILLAand OKT liquidity"
       }
     },
     {
