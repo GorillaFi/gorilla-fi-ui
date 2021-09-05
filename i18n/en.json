@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using GORILLA-OKT LP tokens, which means you need to stake equal amounts of GORILLA and OKT in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using GORILLA-AVAX LP tokens, which means you need to stake equal amounts of GORILLA and AVAX in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get GORILLA-OKT LP >"
+        "text": "Get GORILLA-AVAX LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the OKT, Gorilla Finance burns the GORILLA."
+        "text": "The project gets the AVAX, Gorilla Finance burns the GORILLA."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with Gorilla Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on OKeX."
+        "text": "Launch your project with Gorilla Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on AVAX."
       }
     },
     {
@@ -759,7 +759,7 @@
     {
       "data": {
         "stringId": 578,
-        "text": "Best farm in the OKEx jungle."
+        "text": "Best farm in the Avalanche jungle."
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy GORILLAand OKT tokens"
+        "text": "Buy GORILLAand AVAX tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get EGG-OKT LP tokens by adding GORILLAand OKT liquidity"
+        "text": "Get EGG-AVAX LP tokens by adding GORILLAand AVAX liquidity"
       }
     },
     {
